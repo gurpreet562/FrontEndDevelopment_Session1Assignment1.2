@@ -1,0 +1,38 @@
+<!DOCTYPE  html>
+<html>
+<head>
+  <title>This is the head and body depicting Web Page</title>
+   <style>
+       header{
+            text-align: center;
+            border-bottom : 1px solid silver;
+            border-top      : 1px solid silver;
+            background-color: silver
+          }
+ 
+   </style>
+ </head>
+
+ <body>
+
+     <header>
+      <h2>This is the body section of the html page which defines the document body</h2>
+     </header>
+
+      <dl>
+      <dt><em>BODY:</em></dt>
+      <dd> It contains all the HTML elements like images, text , links etc. The contents written        inside the body section are displayed in the browser window.</dd>
+     </dl>
+
+      <dl>
+      <dt><em>TITLE:</em></dt>
+      <dd> It is written in the head section of the Html Language.It signifies the title of the page        dispalyed at TAB of the browser.It is written inside the title tag of the html.</dd>
+     </dl>
+
+     <dl>
+     <dt><em>HEAD:</em></dt>
+     <dd> It the initial section of the html page comprising the title, style , script.</dd>
+     </dl>
+
+ </body>
+     </html>
